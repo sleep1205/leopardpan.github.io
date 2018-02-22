@@ -24,8 +24,8 @@ I dreamed that I was falling.
 It is common to dream that you’er falling.
 
 
-###Pretend
-
+Pretend
+=======
 vt. 假装
 
 1.~ sth. (illness/sickness/innocence/an interst in sth)
@@ -35,13 +35,12 @@ vt. 假装
 3.~ that we can’t  go on pretending that everything is ok.
 
 
-###Pretend
+Pretend
+>1.to be doing 正在
 
-1.to be doing 正在
+>2.To d0 将来 现在
 
-2.To d0 将来 现在
-
-3.To have done 过去
+>3.To have done 过去
 
 
 
@@ -53,8 +52,7 @@ vt. 假装
 3.To make things worse,  使情况更糟
 
 
-###Attach
-
+### Attach ###
 vt&vi 系上；附加
 
 Tie A to B  把A系到B上
