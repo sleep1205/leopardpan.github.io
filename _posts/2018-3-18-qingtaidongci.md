@@ -1,3 +1,9 @@
+---
+layout: post
+title: 情态动词
+date: 2018-02-16
+tags: 笔记   
+---
 # 情态动词
 
 情态动词有can (could), may (might), must, have to, shall (should, will (would), dare (dared), need (needed), ought to等。 情态动词无人称和数的变化；不能单独使用，必须与其后的动词原形构成谓语。
